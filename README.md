@@ -41,16 +41,14 @@ SalesForecasting/
 
 These insights can help retailers in **strategic planning** and **decision-making**.  
 
-
 ## 🚀 How to Run
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/Laxmi14S/SalesForecasting.git
-   cd SalesForecasting
+```bash
+# Clone the repo
+git clone https://github.com/Laxmi14S/SalesForecasting.git
+cd SalesForecasting
 
-Install dependencies:
+# Install dependencies
 pip install pandas matplotlib statsmodels
 
-
-Run the script:
+# Run the script
 python notebooks/sales_forecast.py
